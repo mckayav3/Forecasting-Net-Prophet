@@ -63,12 +63,18 @@ The images below show the different types of charts and graphs that should be a 
 
 ![Mercado Stock closing](https://github.com/mckayav3/Module_11_Challenge/blob/main/Forecasting%20Net%20Prophet/images/closing_price_stock.JPG)
 
-![Closing Price ](https://github.com/mckayav3/Module_11_Challenge/blob/main/Forecasting%20Net%20Prophet/images/closing_price_search_trends.JPG)
+![Closing Price vs Search Trends](https://github.com/mckayav3/Module_11_Challenge/blob/main/Forecasting%20Net%20Prophet/images/closing_price_search_trends.JPG)
+
+![Stock Volatility](https://github.com/mckayav3/Module_11_Challenge/blob/main/Forecasting%20Net%20Prophet/images/stock_volatility.JPG)
+
+![Forecast predictions](https://github.com/mckayav3/Module_11_Challenge/blob/main/Forecasting%20Net%20Prophet/images/forecast_data.JPG)
+
+
+![Mercado Sales Predictions](https://colab.research.google.com/drive/1oEqCkQcNaoH8mjAVwLWacMWWoljQKBTp#scrollTo=UmtKWD8yYKhM)
+
+![Closing Stock price](https://github.com/mckayav3/Module_11_Challenge/blob/main/Forecasting%20Net%20Prophet/images/closing_price_stock.JPG)
 
 ![]()
-
-![]()
-
 ---
 
 ## Contributors

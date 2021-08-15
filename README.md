@@ -70,7 +70,7 @@ The images below show the different types of charts and graphs that should be a 
 ![Forecast predictions](https://github.com/mckayav3/Module_11_Challenge/blob/main/Forecasting%20Net%20Prophet/images/forecast_data.JPG)
 
 
-![Mercado Sales Predictions](https://colab.research.google.com/drive/1oEqCkQcNaoH8mjAVwLWacMWWoljQKBTp#scrollTo=UmtKWD8yYKhM)
+![Mercado Sales Predictions](https://github.com/mckayav3/Module_11_Challenge/blob/main/Forecasting%20Net%20Prophet/images/mercado_sales_predictions.JPG)
 
 
 ---

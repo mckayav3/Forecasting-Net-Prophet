@@ -1,6 +1,6 @@
-# Module_11_Challenge
+# Module_11_Challenge: Forecasting Net Prophet
 
-This application analyzes cryptocurrencies and their performances over different periods of time. After analyzing the cryptocurrencies their results are then plotted to make a comprehensive assessment of the visualizations of the data.
+This application uses fbprophet to do time series data analysis to evaluate the growth and look for trends.
 
 ---
 
@@ -18,11 +18,11 @@ This project leverages python 3.8.8 with the following packages:
 
 * [hvplot](https://hvplot.holoviz.org/user_guide/Introduction.html) - For creating the visualization of our data from the DataFrame.
 
-* [KMeans](https://scikit-learn.org/stable/modules/clustering.html#k-means) - For separating samples in n groups of equal variance
+* [holoviews](https://holoviews.org/getting_started/Introduction.html) - For data analysis and visualization.
 
-* [PCA](https://scikit-learn.org/stable/modules/decomposition.html#principal-component-analysis-pca) - PCA is used to decompose a multivariate dataset in a set of successive orthogonal components that explain a maximum amount of the variance.
+* [fbprophet](https://facebook.github.io/prophet/) - For forecasting time series data.
 
-* [Standard Scaler](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html) - Standardize features by removing the mean and scaling to unit variance
+* [datetime](https://docs.python.org/3/library/datetime.html) - For manipulating dates and times.
 
 ---
 
@@ -40,12 +40,6 @@ In gitbash after you have activated your dev environment, install the following:
     
 ![install pyviz hvplot](https://github.com/mckayav3/Module7_Challenge/blob/main/images/install_pyviz_hvplot.JPG)
 
-
-*Scikit Learn
-
-    `conda install -U scikit-learn`
-    
-![install scikit-learn](https://github.com/mckayav3/Module_10_Challenge/blob/main/images/install_scikitlearn.png)
 
 ---
 

@@ -45,9 +45,13 @@ In gitbash after you have activated your dev environment, install the following:
 
 ## Examples
 
-The images below show the different types of charts and graphs that should be a result from running the code in the Crypto Investments application. By reviewing the charts and graphs we can conclude the best outcome for the Crypto Investment portfolio.
+The images below show the different types of charts and graphs that should be a result from running the code in the Forecasting Net Prophet application. By reviewing the charts and graphs we can produce a sales forecast to the finance division with the expected total sales for next quarter.
 
 
+![google hourly](https://github.com/mckayav3/Module_11_Challenge/blob/main/Forecasting%20Net%20Prophet/images/google_hourly.JPG)
+
+
+![]
 
 ---
 

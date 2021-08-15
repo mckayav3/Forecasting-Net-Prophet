@@ -51,7 +51,23 @@ The images below show the different types of charts and graphs that should be a 
 ![google hourly](https://github.com/mckayav3/Module_11_Challenge/blob/main/Forecasting%20Net%20Prophet/images/google_hourly.JPG)
 
 
-![]
+![mercado stock](https://github.com/mckayav3/Module_11_Challenge/blob/main/Forecasting%20Net%20Prophet/images/mercado_stock_price.JPG)
+
+![mercado daily](https://github.com/mckayav3/Module_11_Challenge/blob/main/Forecasting%20Net%20Prophet/images/mercado_daily_revenue.JPG)
+
+![May 2020](https://github.com/mckayav3/Module_11_Challenge/blob/main/Forecasting%20Net%20Prophet/images/may2020_df.JPG)
+
+![average search trends](https://github.com/mckayav3/Module_11_Challenge/blob/main/Forecasting%20Net%20Prophet/images/google_average_traffic.JPG)
+
+![HOD DOW](https://github.com/mckayav3/Module_11_Challenge/blob/main/Forecasting%20Net%20Prophet/images/hod_dow.JPG)
+
+![Mercado Stock closing](https://github.com/mckayav3/Module_11_Challenge/blob/main/Forecasting%20Net%20Prophet/images/closing_price_stock.JPG)
+
+![Closing Price ](https://github.com/mckayav3/Module_11_Challenge/blob/main/Forecasting%20Net%20Prophet/images/closing_price_search_trends.JPG)
+
+![]()
+
+![]()
 
 ---
 

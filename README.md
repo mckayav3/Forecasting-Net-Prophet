@@ -38,7 +38,7 @@ In gitbash after you have activated your dev environment, install the following:
 
     `conda install -c pyviz hvplot`
     
-![install pyviz hvplot](https://github.com/mckayav3/Module7_Challenge/blob/main/images/install_pyviz_hvplot.JPG)
+![install pyviz hvplot](https://github.com/mckayav3/Module_11_Challenge/blob/main/Forecasting%20Net%20Prophet/images/install_pyviz_hvplot.JPG)
 
 
 ---
